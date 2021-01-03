@@ -19,3 +19,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 **Thoughts:** It was really fun to learn with a sample of "Among Us" tasks dashboard. I'm not sure about how to work properly with fork and pull-request. I have some difficulties to not interfer with netlify repo when I push my code on my own fork... need to learn more about that
 
 **Link to work:** explorers-composition-api [code](https://github.com/leopaul29/explorers-composition-api) and [netlify live](https://explorers-composition-api.netlify.app/)
+
+### Day 3: January 3, 2021
+
+**Today's Progress**: Small UI change on my portfolio.
+
+**Thoughts:** Difficulties to keep focus on code while thinking about writing posts. I should just write posts and I know I'll get better soon. It's a skill like another to strength.
+
+**Link to work:** [portfolio](https://leopaul29.github.io/)
