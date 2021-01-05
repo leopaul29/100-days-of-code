@@ -30,8 +30,16 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 ### Day 4: January 4, 2021
 
-**Today's Progress**: Try free Symfony tuto on linkedin learning to make a todo list.
+**Today's Progress**: Try free Symfony tutorial on linkedin learning to make a todo list.
 
 **Thoughts:** Difficulties with setup/configuration between ORM and mysql.
+
+**Link to work:** [portfolio](https://github.com/leopaul29/symfony-afaire/)
+
+### Day 5: January 5, 2021
+
+**Today's Progress**: Continue Symfony tutorial on linkedin learning to make a todo list: CRUD part with doctrine/mysql.
+
+**Thoughts:** Not much time to progress on it. Maybe I'll have to continue on my own the tutorial
 
 **Link to work:** [portfolio](https://github.com/leopaul29/symfony-afaire/)
