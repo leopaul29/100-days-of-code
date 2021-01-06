@@ -43,3 +43,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 **Thoughts:** Not much time to progress on it. Maybe I'll have to continue on my own the tutorial
 
 **Link to work:** [portfolio](https://github.com/leopaul29/symfony-afaire/)
+
+### Day 6: January 7, 2021
+
+**Today's Progress**: Add a section to focus on my ReactJS project display
+
+**Thoughts:** Need to check the Github API to retrieve my repo data instead of having to store it in markdown.
+
+**Link to work:** [portfolio](https://leopaul29.github.io/)
