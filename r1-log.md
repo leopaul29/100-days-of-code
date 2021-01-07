@@ -44,10 +44,18 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 **Link to work:** [portfolio](https://github.com/leopaul29/symfony-afaire/)
 
-### Day 6: January 7, 2021
+### Day 6: January 6, 2021
 
 **Today's Progress**: Add a section to focus on my ReactJS project display
 
 **Thoughts:** Need to check the Github API to retrieve my repo data instead of having to store it in markdown.
+
+**Link to work:** [portfolio](https://leopaul29.github.io/)
+
+### Day 7: January 7, 2021
+
+**Today's Progress**: Went through Github API guide and did some test on postman.
+
+**Thoughts:** Plan to use the API to build up the home page of my portfolio with Gatsby.
 
 **Link to work:** [portfolio](https://leopaul29.github.io/)
