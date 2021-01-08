@@ -34,7 +34,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 **Thoughts:** Difficulties with setup/configuration between ORM and mysql.
 
-**Link to work:** [portfolio](https://github.com/leopaul29/symfony-afaire/)
+**Link to work:** [symfony-afaire](https://github.com/leopaul29/symfony-afaire/)
 
 ### Day 5: January 5, 2021
 
@@ -42,7 +42,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 **Thoughts:** Not much time to progress on it. Maybe I'll have to continue on my own the tutorial
 
-**Link to work:** [portfolio](https://github.com/leopaul29/symfony-afaire/)
+**Link to work:** [symfony-afaire](https://github.com/leopaul29/symfony-afaire/)
 
 ### Day 6: January 6, 2021
 
@@ -59,3 +59,12 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 **Thoughts:** Plan to use the API to build up the home page of my portfolio with Gatsby.
 
 **Link to work:** [portfolio](https://leopaul29.github.io/)
+
+### Day 8: January 8, 2021
+
+**Today's Progress**: Work on CSS part of my ReactJs messenger clone using flexbox.
+
+**Thoughts:** Error with Firebase timestamp when adding a doc in db... need to fix it asap to reverse the flipmove.
+
+**Link to work:** [messenger clone](https://facebook-messenger-clone-8cc6b.web.app/)
+
