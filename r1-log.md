@@ -68,3 +68,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 **Link to work:** [messenger clone](https://facebook-messenger-clone-8cc6b.web.app/)
 
+### Day 9: January 9, 2021
+
+**Today's Progress**: Work on CSS part of my ReactJs messenger clone and reverse the flipmove in the request.
+
+**Thoughts:** Still having some trouble with Firebase timestamp when adding a doc in db... but found a workaround. Need more "focus" time to make a smoot scroll down in the message list when adding a new message. 
+
+**Link to work:** [messenger clone](https://facebook-messenger-clone-8cc6b.web.app/)
+
