@@ -76,3 +76,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 **Link to work:** [messenger clone](https://facebook-messenger-clone-8cc6b.web.app/)
 
+### Day 10: January 10, 2021
+
+**Today's Progress**: Fix the scroll on my ReactJs messenger clone.
+
+**Thoughts:** Need to prepare a plan for the week about what to develop. 
+
+**Link to work:** [messenger clone](https://facebook-messenger-clone-8cc6b.web.app/)
+
