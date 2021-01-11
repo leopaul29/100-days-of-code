@@ -84,3 +84,12 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 **Link to work:** [messenger clone](https://facebook-messenger-clone-8cc6b.web.app/)
 
+### Day 11: January 11, 2021
+
+**Today's Progress**: Started the following [challenge](https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw/) at [frontendmentor.io](https://www.frontendmentor.io/).
+
+**Thoughts:** I wanted to use the "Code sandbox" tool for this but I think it's not necessary yet. Instead of that, I installed the Live-server extension on VSCode. It allows me to refresh on save my HTML/CSS. 
+
+**Link to work:** not yet
+
+
