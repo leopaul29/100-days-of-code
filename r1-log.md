@@ -92,4 +92,12 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 **Link to work:** not yet
 
+### Day 12: January 12, 2021
+
+**Today's Progress**: Second day on frontedmentor [challenge](https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw/) at [frontendmentor.io](https://www.frontendmentor.io/).
+
+**Thoughts:** nothing. 
+
+**Link to work:** not yet
+
 
