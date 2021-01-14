@@ -107,3 +107,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 **Thoughts:** Master the font settings in css is not a easy thing. 
 
 **Link to work:** not yet
+
+### Day 14: January 14, 2021
+
+**Today's Progress**: Fourth day on frontedmentor [challenge](https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw/) at [frontendmentor.io](https://www.frontendmentor.io/).
+
+**Thoughts:** A lot of flex-box today.  It's nice to use.
+
+**Link to work:** not yet
