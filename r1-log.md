@@ -135,3 +135,10 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 **Link to work:** loopstudios-landing-page-main [code](https://github.com/leopaul29/frontendmentor/tree/master/loopstudios-landing-page-main) and [live](https://loopstudios-landing-page-main-green.vercel.app/)
 
+### Day 17: January 17, 2021
+
+**Today's Progress**: Finally configure SASS for the project and redeployed it on Vercel the frontedmentor [challenge](https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw/) at [frontendmentor.io](https://www.frontendmentor.io/).
+
+**Thoughts:** Difficulties to deploy it properly on vercel with the commande script.
+
+**Link to work:** loopstudios-landing-page-main [code](https://github.com/leopaul29/frontendmentor/tree/master/loopstudios-landing-page-main) and [live](https://loopstudios-landing-page-main-green.vercel.app/)
