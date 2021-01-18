@@ -142,3 +142,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 **Thoughts:** Difficulties to deploy it properly on vercel with the commande script.
 
 **Link to work:** loopstudios-landing-page-main [code](https://github.com/leopaul29/frontendmentor/tree/master/loopstudios-landing-page-main) and [live](https://loopstudios-landing-page-main-green.vercel.app/)
+
+### Day 18: January 18, 2021
+
+**Today's Progress**: Started working on the first idea about 3D immersive video theater using three.js
+
+**Thoughts:** Difficulties to find very nice and detail example.
+
+**Link to work:** none
