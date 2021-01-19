@@ -150,3 +150,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 **Thoughts:** Difficulties to find very nice and detail example.
 
 **Link to work:** none
+
+### Day 19: January 19, 2021
+
+**Today's Progress**: Struggle with three.js
+
+**Thoughts:** Difficulties to setup correctly a project with esbuild.
+
+**Link to work:** none
