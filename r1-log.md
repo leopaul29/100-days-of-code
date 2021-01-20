@@ -158,3 +158,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 **Thoughts:** Difficulties to setup correctly a project with esbuild.
 
 **Link to work:** none
+
+### Day 20: January 20, 2021
+
+**Today's Progress**:  Went through the "Nextjs getting started" pages today
+
+**Thoughts:** Very similar to react/gatsby, nice info to records/write about server/client-side redering, SEO etc
+
+**Link to work:** [Git](https://github.com/leopaul29/nextjs-blog) and [live](http://nextjs-blog-git-main.leopaul29.vercel.app/)
