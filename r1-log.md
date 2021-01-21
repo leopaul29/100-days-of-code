@@ -166,3 +166,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 **Thoughts:** Very similar to react/gatsby, nice info to records/write about server/client-side redering, SEO etc
 
 **Link to work:** [Git](https://github.com/leopaul29/nextjs-blog) and [live](http://nextjs-blog-git-main.leopaul29.vercel.app/)
+
+### Day 21: January 21, 2021
+
+**Today's Progress**:  Setup Nextjs for threejs project
+
+**Thoughts:** 
+
+**Link to work:** none
