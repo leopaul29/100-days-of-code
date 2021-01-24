@@ -190,3 +190,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 **Thoughts:** difficulte configuration 
 
 **Link to work:** none
+
+### Day 24: January 24, 2021
+
+**Today's Progress**:  Stop the threejs project and started a music player project with [Chakra](https://chakra-ui.com/guides/integrations/with-cra)
+
+**Thoughts:** new project, new possibilities 
+
+**Link to work:** none
