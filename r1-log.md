@@ -182,3 +182,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 **Thoughts:** difficulte configuration 
 
 **Link to work:** none
+
+### Day 23: January 23, 2021
+
+**Today's Progress**:  Continue to implement the youtube example
+
+**Thoughts:** difficulte configuration 
+
+**Link to work:** none
