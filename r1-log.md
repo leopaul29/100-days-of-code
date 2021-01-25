@@ -198,3 +198,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 **Thoughts:** new project, new possibilities 
 
 **Link to work:** none
+
+### Day 25: January 25, 2021
+
+**Today's Progress**:  Worked on custom audio player with Chakra
+
+**Thoughts:** Should try to reproduce a soundcloud audio player 
+
+**Link to work:** none
