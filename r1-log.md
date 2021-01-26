@@ -206,3 +206,12 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 **Thoughts:** Should try to reproduce a soundcloud audio player 
 
 **Link to work:** none
+
+### Day 26: January 26, 2021
+
+**Today's Progress**:  play a music on click
+
+**Thoughts:** first project using typescript 
+  const compiler = (document.getElementById("compiler") as HTMLInputElement)
+
+**Link to work:** none
