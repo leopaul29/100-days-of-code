@@ -215,3 +215,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
   const compiler = (document.getElementById("compiler") as HTMLInputElement)
 
 **Link to work:** none
+
+### Day 27: January 27, 2021
+
+**Today's Progress**:  play other song on click
+
+**Thoughts:** not much time today, need to start work on background animation (start & stop with the music) or maybe do an custom audio controllor. Think about removing Chakra-ui cause it's not fitting the project I'm doing. Can be better use on other project.
+
+**Link to work:** none
