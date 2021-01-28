@@ -223,3 +223,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 **Thoughts:** not much time today, need to start work on background animation (start & stop with the music) or maybe do an custom audio controllor. Think about removing Chakra-ui cause it's not fitting the project I'm doing. Can be better use on other project.
 
 **Link to work:** none
+
+### Day 28: January 28, 2021
+
+**Today's Progress**:  restart from scratch and started css animation
+
+**Thoughts:** all those framework dependencies were not necessary for the prototype I want to do
+
+**Link to work:** none
