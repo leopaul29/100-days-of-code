@@ -231,3 +231,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 **Thoughts:** all those framework dependencies were not necessary for the prototype I want to do
 
 **Link to work:** none
+
+### Day 29: January 29, 2021
+
+**Today's Progress**:  continue on css animation
+
+**Thoughts:** 
+
+**Link to work:** none
