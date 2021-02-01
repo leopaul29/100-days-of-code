@@ -239,3 +239,27 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 **Thoughts:** 
 
 **Link to work:** none
+
+### Day 30: January 30, 2021
+
+**Today's Progress**:  sync between song and animations, started the proto/brainstorming about global gam jam
+
+**Thoughts:** think about using preact for this project cause the javascript is getting big and messy
+
+**Link to work:** none
+
+### Day 31: January 31, 2021
+
+**Today's Progress**:  Made a 2 hours proto at the global gam jam 2021
+
+**Thoughts:** think about using preact for this project cause the javascript is getting big and messy
+
+**Link to work:** [GGJ page](https://globalgamejam.org/2021/games/lets-pack-mission-4)
+
+### Day 32: February 1, 2021
+
+**Today's Progress**:  Freecodecamp "Applied Visual Design" and continue on the music player with loop and reset function
+
+**Thoughts:** busy day
+
+**Link to work:** none
