@@ -263,3 +263,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 **Thoughts:** busy day
 
 **Link to work:** none
+
+### Day 33: February 2, 2021
+
+**Today's Progress**:  Freecodecamp "Applied Accessibility" and continue on the music player with volume setting function
+
+**Thoughts:** again busy day
+
+**Link to work:** none
