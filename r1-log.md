@@ -271,3 +271,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 **Thoughts:** again busy day
 
 **Link to work:** none
+
+### Day 34: February 3, 2021
+
+**Today's Progress**:  Freecodecamp "Responsive Web Design Principles" and continue on the music player with speed setting function
+
+**Thoughts:** need to implement music selector and custom the audio player and it will be good
+
+**Link to work:** none
