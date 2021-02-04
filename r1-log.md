@@ -279,3 +279,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 **Thoughts:** need to implement music selector and custom the audio player and it will be good
 
 **Link to work:** none
+
+### Day 35: February 4, 2021
+
+**Today's Progress**:  Freecodecamp "CSS Flexbox" and continue on the music player with player progressbar
+
+**Thoughts:** need to implement music selector and custom the audio player and it will be good
+
+**Link to work:** none
