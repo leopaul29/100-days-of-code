@@ -287,3 +287,19 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 **Thoughts:** need to implement music selector and custom the audio player and it will be good
 
 **Link to work:** none
+
+### Day 36: February 5, 2021
+
+**Today's Progress**:  Freecodecamp "CSS Grid" and fix on the music player progressbar
+
+**Thoughts:** need to implement music selector and custom the audio player and it will be good
+
+**Link to work:** none
+
+### Day 37: February 6, 2021
+
+**Today's Progress**:  Freecodecamp "Build a Tribute Page" and add playlist song selector on the music player
+
+**Thoughts:** wrapup the hackathon for tomorrow morning
+
+**Link to work:** [objective](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page) and [build](https://codepen.io/leopaul29/pen/bGBpBGM)
