@@ -303,3 +303,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 **Thoughts:** wrapup the hackathon for tomorrow morning
 
 **Link to work:** [objective](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page) and [build](https://codepen.io/leopaul29/pen/bGBpBGM)
+
+### Day 38: February 7, 2021
+
+**Today's Progress**:  Coded all night for the music player hashnode vercel hackathon
+
+**Thoughts:** need to sleep
+
+**Link to work:** [article](https://lpm.hashnode.dev/hashnode-hackathon-with-vercel-my-custom-music-player), [live](https://custom-music-player.vercel.app/) and [code](https://github.com/leopaul29/custom-music-player)
