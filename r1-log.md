@@ -311,3 +311,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 **Thoughts:** need to sleep
 
 **Link to work:** [article](https://lpm.hashnode.dev/hashnode-hackathon-with-vercel-my-custom-music-player), [live](https://custom-music-player.vercel.app/) and [code](https://github.com/leopaul29/custom-music-player)
+
+### Day 39: February 8, 2021
+
+**Today's Progress**:  Slow transition on java spring boot
+
+**Thoughts:** it will be a month full of java !
+
+**Link to work:** 
