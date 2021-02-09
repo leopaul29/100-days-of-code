@@ -316,6 +316,14 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 **Today's Progress**:  Slow transition on java spring boot
 
-**Thoughts:** it will be a month full of java !
+**Thoughts:** it will be a month full of java !  Need to seriously catch up on it.
 
 **Link to work:** 
+
+### Day 40: February 9, 2021
+
+**Today's Progress**:  Reworked my readme
+
+**Thoughts:** need to clear a lot of thing before making some java and also hasnode is making a new [hackathon with AWS Amplify](https://townhall.hashnode.com/announcing-aws-amplify-hackathon-on-hashnode)
+
+**Link to work:** [Github page](https://github.com/leopaul29)
