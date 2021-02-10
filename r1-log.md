@@ -327,3 +327,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 **Thoughts:** need to clear a lot of thing before making some java and also hasnode is making a new [hackathon with AWS Amplify](https://townhall.hashnode.com/announcing-aws-amplify-hackathon-on-hashnode)
 
 **Link to work:** [Github page](https://github.com/leopaul29)
+
+### Day 41: February 10, 2021
+
+**Today's Progress**:  Setup java spring project
+
+**Thoughts:** none
+
+**Link to work:** 
