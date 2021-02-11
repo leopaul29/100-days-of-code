@@ -161,7 +161,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 ### Day 20: January 20, 2021
 
-**Today's Progress**:  Went through the "Nextjs getting started" pages today
+**Today's Progress**: Went through the "Nextjs getting started" pages today
 
 **Thoughts:** Very similar to react/gatsby, nice info to records/write about server/client-side redering, SEO etc
 
@@ -169,7 +169,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 ### Day 21: January 21, 2021
 
-**Today's Progress**:  Setup Nextjs for threejs project
+**Today's Progress**: Setup Nextjs for threejs project
 
 **Thoughts:** 
 
@@ -177,7 +177,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 ### Day 22: January 22, 2021
 
-**Today's Progress**:  Try to implement the youtube example
+**Today's Progress**: Try to implement the youtube example
 
 **Thoughts:** difficulte configuration 
 
@@ -185,7 +185,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 ### Day 23: January 23, 2021
 
-**Today's Progress**:  Continue to implement the youtube example
+**Today's Progress**: Continue to implement the youtube example
 
 **Thoughts:** difficulte configuration 
 
@@ -193,7 +193,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 ### Day 24: January 24, 2021
 
-**Today's Progress**:  Stop the threejs project and started a music player project with [Chakra](https://chakra-ui.com/guides/integrations/with-cra)
+**Today's Progress**: Stop the threejs project and started a music player project with [Chakra](https://chakra-ui.com/guides/integrations/with-cra)
 
 **Thoughts:** new project, new possibilities 
 
@@ -201,7 +201,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 ### Day 25: January 25, 2021
 
-**Today's Progress**:  Worked on custom audio player with Chakra
+**Today's Progress**: Worked on custom audio player with Chakra
 
 **Thoughts:** Should try to reproduce a soundcloud audio player 
 
@@ -209,7 +209,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 ### Day 26: January 26, 2021
 
-**Today's Progress**:  play a music on click
+**Today's Progress**:  lay a music on click
 
 **Thoughts:** first project using typescript 
   const compiler = (document.getElementById("compiler") as HTMLInputElement)
@@ -218,7 +218,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 ### Day 27: January 27, 2021
 
-**Today's Progress**:  play other song on click
+**Today's Progress**: play other song on click
 
 **Thoughts:** not much time today, need to start work on background animation (start & stop with the music) or maybe do an custom audio controllor. Think about removing Chakra-ui cause it's not fitting the project I'm doing. Can be better use on other project.
 
@@ -226,7 +226,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 ### Day 28: January 28, 2021
 
-**Today's Progress**:  restart from scratch and started css animation
+**Today's Progress**: restart from scratch and started css animation
 
 **Thoughts:** all those framework dependencies were not necessary for the prototype I want to do
 
@@ -234,7 +234,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 ### Day 29: January 29, 2021
 
-**Today's Progress**:  continue on css animation
+**Today's Progress**: continue on css animation
 
 **Thoughts:** 
 
@@ -242,7 +242,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 ### Day 30: January 30, 2021
 
-**Today's Progress**:  sync between song and animations, started the proto/brainstorming about global gam jam
+**Today's Progress**: sync between song and animations, started the proto/brainstorming about global gam jam
 
 **Thoughts:** think about using preact for this project cause the javascript is getting big and messy
 
@@ -250,7 +250,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 ### Day 31: January 31, 2021
 
-**Today's Progress**:  Made a 2 hours proto at the global gam jam 2021
+**Today's Progress**: Made a 2 hours proto at the global gam jam 2021
 
 **Thoughts:** think about using preact for this project cause the javascript is getting big and messy
 
@@ -258,7 +258,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 ### Day 32: February 1, 2021
 
-**Today's Progress**:  Freecodecamp "Applied Visual Design" and continue on the music player with loop and reset function
+**Today's Progress**: Freecodecamp "Applied Visual Design" and continue on the music player with loop and reset function
 
 **Thoughts:** busy day
 
@@ -266,7 +266,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 ### Day 33: February 2, 2021
 
-**Today's Progress**:  Freecodecamp "Applied Accessibility" and continue on the music player with volume setting function
+**Today's Progress**: Freecodecamp "Applied Accessibility" and continue on the music player with volume setting function
 
 **Thoughts:** again busy day
 
@@ -274,7 +274,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 ### Day 34: February 3, 2021
 
-**Today's Progress**:  Freecodecamp "Responsive Web Design Principles" and continue on the music player with speed setting function
+**Today's Progress**: Freecodecamp "Responsive Web Design Principles" and continue on the music player with speed setting function
 
 **Thoughts:** need to implement music selector and custom the audio player and it will be good
 
@@ -282,7 +282,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 ### Day 35: February 4, 2021
 
-**Today's Progress**:  Freecodecamp "CSS Flexbox" and continue on the music player with player progressbar
+**Today's Progress**: Freecodecamp "CSS Flexbox" and continue on the music player with player progressbar
 
 **Thoughts:** need to implement music selector and custom the audio player and it will be good
 
@@ -290,7 +290,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 ### Day 36: February 5, 2021
 
-**Today's Progress**:  Freecodecamp "CSS Grid" and fix on the music player progressbar
+**Today's Progress**: Freecodecamp "CSS Grid" and fix on the music player progressbar
 
 **Thoughts:** need to implement music selector and custom the audio player and it will be good
 
@@ -298,7 +298,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 ### Day 37: February 6, 2021
 
-**Today's Progress**:  Freecodecamp "Build a Tribute Page" and add playlist song selector on the music player
+**Today's Progress**: Freecodecamp "Build a Tribute Page" and add playlist song selector on the music player
 
 **Thoughts:** wrapup the hackathon for tomorrow morning
 
@@ -306,7 +306,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 ### Day 38: February 7, 2021
 
-**Today's Progress**:  Coded all night for the music player hashnode vercel hackathon
+**Today's Progress**: Coded all night for the music player hashnode vercel hackathon
 
 **Thoughts:** need to sleep
 
@@ -314,7 +314,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 ### Day 39: February 8, 2021
 
-**Today's Progress**:  Slow transition on java spring boot
+**Today's Progress**: Slow transition on java spring boot
 
 **Thoughts:** it will be a month full of java !  Need to seriously catch up on it.
 
@@ -322,7 +322,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 ### Day 40: February 9, 2021
 
-**Today's Progress**:  Reworked my readme
+**Today's Progress**: Reworked my readme
 
 **Thoughts:** need to clear a lot of thing before making some java and also hasnode is making a new [hackathon with AWS Amplify](https://townhall.hashnode.com/announcing-aws-amplify-hackathon-on-hashnode)
 
@@ -330,8 +330,16 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 ### Day 41: February 10, 2021
 
-**Today's Progress**:  Setup java spring project
+**Today's Progress**: Setup java spring project
 
 **Thoughts:** none
+
+**Link to work:** 
+
+### Day 42: February 11, 2021
+
+**Today's Progress**: Continue with java spring and mongo but link with db not working
+
+**Thoughts:** will never be able to make docker works -_-' 
 
 **Link to work:** 
