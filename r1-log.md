@@ -343,3 +343,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 **Thoughts:** will never be able to make docker works -_-' 
 
 **Link to work:** 
+
+### Day 43: February 12, 2021
+
+**Today's Progress**: Finally make it work with java spring and mongo
+
+**Thoughts:** 
+
+**Link to work:** 
