@@ -351,3 +351,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 **Thoughts:** 
 
 **Link to work:** 
+
+### Day 44: February 13, 2021
+
+**Today's Progress**: Just started a product page with java spring 
+
+**Thoughts:** 
+
+**Link to work:** 
