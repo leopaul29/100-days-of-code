@@ -359,3 +359,22 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 **Thoughts:** 
 
 **Link to work:** 
+
+### Day 45: February 14, 2021
+
+**Today's Progress**: Continue a little on product list page with java spring 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 46: February 15, 2021
+
+**Today's Progress**: try to setup template page with reactjs 
+https://spring.io/guides/tutorials/react-and-spring-data-rest/
+
+**Thoughts:** 
+
+**Link to work:** 
+
