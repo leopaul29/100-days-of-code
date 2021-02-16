@@ -368,7 +368,6 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 **Link to work:** 
 
-
 ### Day 46: February 15, 2021
 
 **Today's Progress**: try to setup template page with reactjs 
@@ -378,3 +377,11 @@ https://spring.io/guides/tutorials/react-and-spring-data-rest/
 
 **Link to work:** 
 
+### Day 47: February 16, 2021
+
+**Today's Progress**: mongodb and paginations
+https://www.baeldung.com/spring-data-mongodb-tutorial
+
+**Thoughts:** 
+
+**Link to work:** 
