@@ -385,3 +385,11 @@ https://www.baeldung.com/spring-data-mongodb-tutorial
 **Thoughts:** 
 
 **Link to work:** 
+### Day 48: February 17, 2021
+
+**Today's Progress**: add thymeleaf templating
+https://spring.io/guides/gs/securing-web/
+
+**Thoughts:** 
+
+**Link to work:** 
