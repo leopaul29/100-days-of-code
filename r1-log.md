@@ -406,7 +406,7 @@ https://spring.io/guides/gs/serving-web-content/
 
 ### Day 50: February 19, 2021
 
-**Today's Progress**: home and product page
+**Today's Progress**: spring boot home and product page
 
 **Thoughts:** 
 
