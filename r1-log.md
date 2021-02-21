@@ -334,7 +334,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 **Thoughts:** none
 
-**Link to work:** 
+**Link to work:** https://github.com/leopaul29/spring-todo-api
 
 ### Day 42: February 11, 2021
 
@@ -342,7 +342,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 **Thoughts:** will never be able to make docker works -_-' 
 
-**Link to work:** 
+**Link to work:** https://github.com/leopaul29/spring-todo-api
 
 ### Day 43: February 12, 2021
 
@@ -350,7 +350,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 **Thoughts:** 
 
-**Link to work:** 
+**Link to work:** https://github.com/leopaul29/spring-todo-api
 
 ### Day 44: February 13, 2021
 
@@ -358,7 +358,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 **Thoughts:** 
 
-**Link to work:** 
+**Link to work:** https://github.com/leopaul29/spring-todo-api
 
 ### Day 45: February 14, 2021
 
@@ -366,7 +366,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 **Thoughts:** 
 
-**Link to work:** 
+**Link to work:** https://github.com/leopaul29/spring-todo-api
 
 ### Day 46: February 15, 2021
 
@@ -375,7 +375,7 @@ https://spring.io/guides/tutorials/react-and-spring-data-rest/
 
 **Thoughts:** 
 
-**Link to work:** 
+**Link to work:** https://github.com/leopaul29/spring-product-page
 
 ### Day 47: February 16, 2021
 
@@ -384,7 +384,7 @@ https://www.baeldung.com/spring-data-mongodb-tutorial
 
 **Thoughts:** 
 
-**Link to work:** 
+**Link to work:** https://github.com/leopaul29/spring-product-page
 
 ### Day 48: February 17, 2021
 
@@ -393,7 +393,7 @@ https://spring.io/guides/gs/securing-web/
 
 **Thoughts:** 
 
-**Link to work:** 
+**Link to work:** https://github.com/leopaul29/spring-product-page
 
 ### Day 49: February 18, 2021
 
@@ -402,7 +402,7 @@ https://spring.io/guides/gs/serving-web-content/
 
 **Thoughts:** 
 
-**Link to work:** 
+**Link to work:** https://github.com/leopaul29/spring-product-page
 
 ### Day 50: February 19, 2021
 
@@ -410,4 +410,22 @@ https://spring.io/guides/gs/serving-web-content/
 
 **Thoughts:** 
 
-**Link to work:** 
+**Link to work:** https://github.com/leopaul29/spring-product-page
+
+### Day 51: February 20, 2021
+
+**Today's Progress**: spring boot with data-rest and reactjs client
+https://spring.io/guides/tutorials/react-and-spring-data-rest/
+
+**Thoughts:** 
+
+**Link to work:** https://github.com/leopaul29/spring-product-page
+
+### Day 52: February 21, 2021
+
+**Today's Progress**: continue on spring boot with data-rest and reactjs client
+https://spring.io/guides/tutorials/react-and-spring-data-rest/
+
+**Thoughts:** 
+
+**Link to work:** https://github.com/leopaul29/spring-product-page
