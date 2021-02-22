@@ -429,3 +429,12 @@ https://spring.io/guides/tutorials/react-and-spring-data-rest/
 **Thoughts:** 
 
 **Link to work:** https://github.com/leopaul29/spring-product-page
+
+### Day 53: February 22, 2021
+
+**Today's Progress**: finish spring boot with data-rest and reactjs client
+https://spring.io/guides/tutorials/react-and-spring-data-rest/
+
+**Thoughts:** 
+
+**Link to work:** https://github.com/leopaul29/spring-product-page
