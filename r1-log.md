@@ -438,3 +438,27 @@ https://spring.io/guides/tutorials/react-and-spring-data-rest/
 **Thoughts:** 
 
 **Link to work:** https://github.com/leopaul29/spring-product-page
+
+### Day 54: February 23, 2021
+
+**Today's Progress**: sopra formation react js
+
+**Thoughts:** 
+
+**Link to work:** https://github.com/leopaul29/sopra-forma-react-layout, https://github.com/leopaul29/sopra-forma-react-profile, https://github.com/leopaul29/sopra-forma-react-clock
+
+### Day 55: February 24, 2021
+
+**Today's Progress**: sopra formation react js
+
+**Thoughts:** 
+
+**Link to work:** https://github.com/leopaul29/sopra-forma-react-counter, https://github.com/leopaul29/sopra-forma-react-contactform, https://github.com/leopaul29/sopra-forma-react-taskslist
+
+### Day 56: February 25, 2021
+
+**Today's Progress**: spring boot serve consume api for a gallery blog
+
+**Thoughts:** 
+
+**Link to work:** 
