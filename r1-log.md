@@ -457,7 +457,15 @@ https://spring.io/guides/tutorials/react-and-spring-data-rest/
 
 ### Day 56: February 25, 2021
 
-**Today's Progress**: spring boot serve consume api for a gallery blog
+**Today's Progress**: spring boot serve consume api for a gallery blog, setup home page
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 57: February 26, 2021
+
+**Today's Progress**: spring boot serve consume api for a gallery blog, setup restclient and album page
 
 **Thoughts:** 
 
