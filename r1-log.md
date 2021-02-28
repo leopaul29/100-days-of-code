@@ -478,3 +478,11 @@ https://spring.io/guides/tutorials/react-and-spring-data-rest/
 **Thoughts:** 
 
 **Link to work:** 
+
+### Day 59: February 28, 2021
+
+**Today's Progress**: try to make some server-side caching img with gallery page
+
+**Thoughts:** 
+
+**Link to work:** 
