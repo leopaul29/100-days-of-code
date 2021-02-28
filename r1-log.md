@@ -470,3 +470,11 @@ https://spring.io/guides/tutorials/react-and-spring-data-rest/
 **Thoughts:** 
 
 **Link to work:** 
+
+### Day 58: February 27, 2021
+
+**Today's Progress**: spring boot serve consume api for a gallery blog, finish gallery page and try to make some server-side caching img
+
+**Thoughts:** 
+
+**Link to work:** 
