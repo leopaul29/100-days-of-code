@@ -494,3 +494,19 @@ https://spring.io/guides/tutorials/react-and-spring-data-rest/
 **Thoughts:** I'm planning the week to rework it.
 
 **Link to work:** 
+
+### Day 61: Mars 2, 2021
+
+**Today's Progress**: Made my Gatsby portfolio a PWA and tried to implement dark-mode with Bulma.
+
+**Thoughts:** I'm planning the week to rework it.
+
+**Link to work:** 
+
+### Day 62: Mars 3, 2021
+
+**Today's Progress**: Reworked my portfolio today
+
+**Thoughts:** remaining todo: mobile + darkmode
+
+**Link to work:** 
