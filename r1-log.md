@@ -510,3 +510,11 @@ https://spring.io/guides/tutorials/react-and-spring-data-rest/
 **Thoughts:** remaining todo: mobile + darkmode
 
 **Link to work:** 
+
+### Day 63: Mars 4, 2021
+
+**Today's Progress**: Reworked my navbar portfolio to make it mobile-ui friendly and improve perf
+
+**Thoughts:** todo: darkmode
+
+**Link to work:** 
