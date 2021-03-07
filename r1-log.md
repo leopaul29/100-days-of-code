@@ -507,7 +507,7 @@ https://spring.io/guides/tutorials/react-and-spring-data-rest/
 
 **Today's Progress**: Reworked my portfolio today
 
-**Thoughts:** remaining todo: mobile + darkmode
+**Thoughts:** mobile + darkmode
 
 **Link to work:** 
 
@@ -515,7 +515,7 @@ https://spring.io/guides/tutorials/react-and-spring-data-rest/
 
 **Today's Progress**: Reworked my navbar portfolio to make it mobile-ui friendly and improve perf
 
-**Thoughts:** todo: darkmode
+**Thoughts:** darkmode?
 
 **Link to work:** 
 
@@ -530,6 +530,14 @@ https://spring.io/guides/tutorials/react-and-spring-data-rest/
 ### Day 65: Mars 6, 2021
 
 **Today's Progress**: introduction to Svelte with hardcode formation
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 66: Mars 7, 2021
+
+**Today's Progress**: fix Svelte with hardcode formation and other repo
 
 **Thoughts:** 
 
