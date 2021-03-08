@@ -542,3 +542,11 @@ https://spring.io/guides/tutorials/react-and-spring-data-rest/
 **Thoughts:** 
 
 **Link to work:** 
+
+### Day 67: Mars 8, 2021
+
+**Today's Progress**: started springboot jwt project
+
+**Thoughts:** 
+
+**Link to work:** 
