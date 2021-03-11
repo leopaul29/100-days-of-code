@@ -566,3 +566,12 @@ https://spring.io/guides/tutorials/react-and-spring-data-rest/
 **Thoughts:** tried to implemente freecodecamp post.
 
 **Link to work:** 
+
+
+### Day 70: Mars 11, 2021
+
+**Today's Progress**: try to make something work this stupid springboot jwt project
+
+**Thoughts:** until now, none of the 3 tuto I followed work... is jwt really secure if it never work ?
+
+**Link to work:** 
