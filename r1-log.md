@@ -567,7 +567,6 @@ https://spring.io/guides/tutorials/react-and-spring-data-rest/
 
 **Link to work:** 
 
-
 ### Day 70: Mars 11, 2021
 
 **Today's Progress**: try to make something work this stupid springboot jwt project
@@ -575,3 +574,12 @@ https://spring.io/guides/tutorials/react-and-spring-data-rest/
 **Thoughts:** until now, none of the 3 tuto I followed work... is jwt really secure if it never work ?
 
 **Link to work:** 
+
+### Day 71: Mars 12, 2021
+
+**Today's Progress**: Started new frontend mentor challenge Crowdfunding product page
+
+
+**Thoughts:** 
+
+**Link to work:** [Crowdfunding product page](https://www.frontendmentor.io/challenges/crowdfunding-product-page-7uvcZe7ZR)
