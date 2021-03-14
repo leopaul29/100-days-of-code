@@ -592,3 +592,12 @@ https://spring.io/guides/tutorials/react-and-spring-data-rest/
 **Thoughts:** 
 
 **Link to work:** [Crowdfunding product page](https://www.frontendmentor.io/challenges/crowdfunding-product-page-7uvcZe7ZR)
+
+### Day 73: Mars 14, 2021
+
+**Today's Progress**: Frontend mentor challenge Crowdfunding product page skeleton
+
+
+**Thoughts:** 
+
+**Link to work:** [Crowdfunding product page](https://www.frontendmentor.io/challenges/crowdfunding-product-page-7uvcZe7ZR)
