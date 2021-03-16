@@ -579,7 +579,6 @@ https://spring.io/guides/tutorials/react-and-spring-data-rest/
 
 **Today's Progress**: Started new frontend mentor challenge Crowdfunding product page
 
-
 **Thoughts:** 
 
 **Link to work:** [Crowdfunding product page](https://www.frontendmentor.io/challenges/crowdfunding-product-page-7uvcZe7ZR)
@@ -587,7 +586,6 @@ https://spring.io/guides/tutorials/react-and-spring-data-rest/
 ### Day 72: Mars 13, 2021
 
 **Today's Progress**: Frontend mentor challenge Crowdfunding product page skeleton
-
 
 **Thoughts:** 
 
@@ -597,7 +595,6 @@ https://spring.io/guides/tutorials/react-and-spring-data-rest/
 
 **Today's Progress**: Frontend mentor challenge Crowdfunding product page skeleton
 
-
 **Thoughts:** 
 
 **Link to work:** [Crowdfunding product page](https://www.frontendmentor.io/challenges/crowdfunding-product-page-7uvcZe7ZR)
@@ -606,6 +603,13 @@ https://spring.io/guides/tutorials/react-and-spring-data-rest/
 
 **Today's Progress**: Frontend mentor challenge Crowdfunding product page skeleton and style
 
+**Thoughts:** 
+
+**Link to work:** [Crowdfunding product page](https://www.frontendmentor.io/challenges/crowdfunding-product-page-7uvcZe7ZR)
+
+### Day 75: Mars 16, 2021
+
+**Today's Progress**: Frontend mentor challenge Crowdfunding product page skeleton and style
 
 **Thoughts:** 
 
