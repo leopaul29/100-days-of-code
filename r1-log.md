@@ -758,10 +758,59 @@ https://spring.io/guides/tutorials/react-and-spring-data-rest/
 **Thoughts:** 
 
 **Link to work:** 
+
 ### Day 94: April 3, 2021
 
 **Today's Progress**: Frontend mentor challenge Crowdfunding product page react modal
 
 **Thoughts:** blocked
+
+**Link to work:** 
+
+### Day 95: April 4, 2021
+
+**Today's Progress**: Frontend mentor challenge Crowdfunding product page react modal
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 96: April 5, 2021
+
+**Today's Progress**: Frontend mentor challenge Crowdfunding product page react modal
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 97: April 6, 2021
+
+**Today's Progress**: Frontend mentor challenge Crowdfunding product page react modal
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 98: April 7, 2021
+
+**Today's Progress**: Frontend mentor challenge Crowdfunding product page react modal
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 99: April 8, 2021
+
+**Today's Progress**: Frontend mentor challenge Crowdfunding product page react modal
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 100: April 9, 2021
+
+**Today's Progress**: Frontend mentor challenge Crowdfunding product page react modal
+
+**Thoughts:** 
 
 **Link to work:** 
